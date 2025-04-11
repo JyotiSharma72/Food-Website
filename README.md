@@ -12,6 +12,8 @@ A full-stack food delivery website built with the MERN stack (MongoDB, Express, 
 + [Tech Stack]()
 
 + [Running the Project]()
+
++  [Images]()
   
 ## **Introduction**
 ***
@@ -78,19 +80,19 @@ Additionally, restaurant owners have the ability to add new food items to the pl
 ***
 + To run the project in your local environment, follow these steps: ⬇️
 
-## **You need:** 
+**You need:** 
 
 - Vite Tool
 - NodeJs.
 - Database (`MongoDB`) Free Cluster.
 
-## **Create .env file:**
+**Create .env file:**
 
 Create a .env file to store your credentials:
 
 - `MONGODB_URI= mongodb+srv://<username>:<password>@clusterName.xxxxxxx.mongodb.net/food-del`
 
-## **Download npm packages and Vite tool:**
+**Download npm packages and Vite tool:**
 
 + For the backend side follow these steps: ⬇️
 
@@ -106,8 +108,11 @@ Create a .env file to store your credentials:
 4. Open [http://localhost:5173](http://localhost:5173) (or the address shown in your console) in your web browser to view the app.
 
 ## **Images**
-
+***
 ![image alt](https://github.com/JyotiSharma72/Food-Website/blob/3aba610ddbc3afa8e70d9e1f47a461df14a41a83/Screenshot%202025-03-07%20184416.png)
+![image alt](https://github.com/JyotiSharma72/Food-Website/blob/3aba610ddbc3afa8e70d9e1f47a461df14a41a83/Screenshot%202025-03-07%20184416.png)
+
+
 
 
   
