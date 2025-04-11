@@ -119,8 +119,8 @@ Create a .env file to store your credentials:
 ![image alt](https://github.com/JyotiSharma72/Food-Website/blob/ec5a0a8cd4412d2bfd8e15eb0df009714e3175de/Screenshot%202025-03-07%20192912.png)
 ![image alt](https://github.com/JyotiSharma72/Food-Website/blob/32e6d8a185a71502cf6d6c28f70fee821a058452/Screenshot%202025-03-07%20192849.png)
 ![image alt](https://github.com/JyotiSharma72/Food-Website/blob/b1e60b01b6e0e31c59fe01caaf261510c355bcc0/Screenshot%202025-03-07%20193055.png)
-![image alt]()
-![image alt]()
+![image alt](https://github.com/JyotiSharma72/Food-Website/blob/1db078beb9a5c0887f0c5871ab477a4d6b88531f/Screenshot%202025-04-11%20233808.png)
+
 
 
 
