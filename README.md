@@ -10,6 +10,8 @@ A full-stack food delivery website built with the MERN stack (MongoDB, Express, 
 + [Features]()
   
 + [Tech Stack]()
+
++ [Running the Project]()
   
 ## **Introduction**
 ***
@@ -72,19 +74,36 @@ Additionally, restaurant owners have the ability to add new food items to the pl
 
 + **Payment Gateway**: Stripe/PayPal (for real-time payments)
 
-## 🚦 Running the Project
+## **Running the Project**
+***
++ To run the project in your local environment, follow these steps: ⬇️
 
-To run the project in your local environment, follow these steps: ⬇️
-
-## 1️⃣ You need: 
+## ** 1.You need:** 
 
 - Vite Tool
 - NodeJs.
 - Database (`MongoDB`) Free Cluster.
 
-## 2️⃣ Create .env file:
+## ** 2.Create .env file:**
 
 Create a .env file to store your credentials:
+
+- `MONGODB_URI= mongodb+srv://<username>:<password>@clusterName.xxxxxxx.mongodb.net/food-del`
+
+## ** 3.Download npm packages and Vite tool:**
+
++ For the backend side follow these steps: ⬇️
+
+1. Run `npm install` in the project directory to install the required dependencies.
+2. Run `npm run server` to get the project started.
+3. Open [http://localhost:4000](http://localhost:4000) (or the address shown in your console) in your web browser to view the app.
+
++ For the frontend side follow these steps: ⬇️
+
+1. Run `cd food-delivery/frontend/` & `cd mern-food-delivery/admin/` should go both folder field.
+2. Run `npm install` in the project directory to install the required dependencies.
+3. Run `npm run dev` to get the project started.
+4. Open [http://localhost:5173](http://localhost:5173) (or the address shown in your console) in your web browser to view the app.
 
   
 
