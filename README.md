@@ -13,19 +13,19 @@ A full-stack food delivery website built with the MERN stack (MongoDB, Express, 
   
 ## **Introduction**
 ***
-I built a fully responsive and modern ## **Food Website** that offers a complete and intuitive user experience. In this project, users can navigate through various pages including:
+I built a fully responsive and modern **Food Website** that offers a complete and intuitive user experience. In this project, users can navigate through various pages including:
 
-+ # Home
++ **Home**
 
-+ # Menu
++ **Menu**
 
-+ # Mobile App
++ **Mobile App**
 
-+ # Contact Us
++ **Contact Us**
 
-+ # Admin Panel
++ **Admin Panel**
 
-Users can easily browse the menu and add food items to their basket. By clicking the basket icon, they are directed to the ## **payment page**, where they can:
+Users can easily browse the menu and add food items to their basket. By clicking the basket icon, they are directed to the **payment page**, where they can:
 
 
 + Review their selected items
@@ -36,7 +36,7 @@ Users can easily browse the menu and add food items to their basket. By clicking
 
 + Complete their food order securely
 
- The website also includes an ## **Admin Dashboard** where admins can:
+ The website also includes an **Admin Dashboard** where admins can:
 
 + View new and previous orders
 
