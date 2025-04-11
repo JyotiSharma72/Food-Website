@@ -78,19 +78,19 @@ Additionally, restaurant owners have the ability to add new food items to the pl
 ***
 + To run the project in your local environment, follow these steps: ⬇️
 
-## ** 1.You need:** 
+## **You need:** 
 
 - Vite Tool
 - NodeJs.
 - Database (`MongoDB`) Free Cluster.
 
-## ** 2.Create .env file:**
+## **Create .env file:**
 
 Create a .env file to store your credentials:
 
 - `MONGODB_URI= mongodb+srv://<username>:<password>@clusterName.xxxxxxx.mongodb.net/food-del`
 
-## ** 3.Download npm packages and Vite tool:**
+## **Download npm packages and Vite tool:**
 
 + For the backend side follow these steps: ⬇️
 
@@ -104,6 +104,11 @@ Create a .env file to store your credentials:
 2. Run `npm install` in the project directory to install the required dependencies.
 3. Run `npm run dev` to get the project started.
 4. Open [http://localhost:5173](http://localhost:5173) (or the address shown in your console) in your web browser to view the app.
+
+## **Images**
+
+![image alt](https://github.com/JyotiSharma72/Food-Website/blob/3aba610ddbc3afa8e70d9e1f47a461df14a41a83/Screenshot%202025-03-07%20184416.png)
+
 
   
 
