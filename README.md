@@ -2,19 +2,6 @@
 ***
 A full-stack food delivery website built with the MERN stack (MongoDB, Express, React, Node.js). Users can browse menus, place orders, and track deliveries in real-time.
 
-
-## **Table of Content**
-***
-+ [Introduction]()
-  
-+ [Features]()
-  
-+ [Tech Stack]()
-
-+ [Running the Project]()
-
-+  [Images]()
-  
 ## **Introduction**
 ***
 I built a fully responsive and modern **Food Website** that offers a complete and intuitive user experience. In this project, users can navigate through various pages including:
