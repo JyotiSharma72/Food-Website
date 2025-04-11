@@ -71,5 +71,20 @@ Additionally, restaurant owners have the ability to add new food items to the pl
 + **Authentication**: JWT (JSON Web Tokens)
 
 + **Payment Gateway**: Stripe/PayPal (for real-time payments)
+
+## 🚦 Running the Project
+
+To run the project in your local environment, follow these steps: ⬇️
+
+## 1️⃣ You need: 
+
+- Vite Tool
+- NodeJs.
+- Database (`MongoDB`) Free Cluster.
+
+## 2️⃣ Create .env file:
+
+Create a .env file to store your credentials:
+
   
 
