@@ -65,7 +65,7 @@ Additionally, restaurant owners have the ability to add new food items to the pl
 
 ## **Running the Project**
 ***
-+To run the project in your local environment, follow these steps: ⬇️
+To run the project in your local environment, follow these steps: ⬇️
 
 **You need:** 
 
